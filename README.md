@@ -99,3 +99,18 @@ This project is designed to be hosted as a simple link.
 
 ---
 Made for fun. Use responsibly. 💖
+
+---
+
+<!-- small separator space -->
+<br/>
+
+<details>
+  <summary><sub>a secret msg for the loml</sub></summary>
+
+  <br/>
+
+  🔐 **Protected PDF (password required):**  
+  [Download Valentines2026](docs/assets/Valentines2026.pdf)
+
+</details>
