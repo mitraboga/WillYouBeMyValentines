@@ -111,6 +111,6 @@ Made for fun. Use responsibly. 💖
   <br/>
 
   🔐 **Protected PDF (password required):**  
-  [Download Valentines2026](docs/assets/Valentines2026.pdf?raw=1)
+  [Download Valentines2026](pdf/download/Valentines2026.pdf?raw=1)
 
 </details>
