@@ -67,7 +67,7 @@ This project is designed to be hosted as a simple link.
 
   <br/>
 
-  ![SS-2](assets/SS-2.png)
+  ![SS-1](assets/SS-1.png)
 
 </details>
 
@@ -76,7 +76,7 @@ This project is designed to be hosted as a simple link.
 
   <br/>
 
-  ![SS-1](assets/SS-1.png)
+  ![SS-2](assets/SS-2.png)
 </details>
 
 ---
